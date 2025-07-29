@@ -1,6 +1,6 @@
 # Hi, I'm Vlad 👋
 
-I'm a frontend developer based in Amsterdam, currently completing the full-time HackYourFuture program. I specialize in building fast, accessible, and resilient interfaces — using **React**, **TypeScript**, and **modern CSS**.
+I'm a frontend developer based in Amsterdam, currently completing the full-time HackYourFuture program. I specialize in building fast, accessible, and resilient interfaces — using **React**, **TypeScript**, and **modern CSS** **++Angular** .
 
 🧠 Systems thinker | ⚡ ADHD energy | 🏳️‍🌈 Activist by choice
 
