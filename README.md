@@ -15,7 +15,7 @@ I'm a frontend developer based in Amsterdam, currently completing the full-time 
 
 ## Let's connect
 
-📫 [LinkedIn](https://linkedin.com/in/vnachikov)  
+📫 [LinkedIn](https://linkedin.com/in/vlnach)  
 
 ---
 
